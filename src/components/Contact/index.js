@@ -58,8 +58,8 @@ function Contact() {
 
       <div className="contact-info">
         <div>
-          <h3>Hello {userName}</h3>
-          <p>Want to get into contact?</p>
+          <h3>Hello!{userName}</h3>
+          <p>Want to get in contact?</p>
           <address>
             Ottawa ON Canada <br />
             P: <a href="tel:613.462.4273">613.462.4273</a>
@@ -70,7 +70,7 @@ function Contact() {
             </a>
           </address>
           <p>
-            <strong>I'd love to hear your feedback!</strong>
+            <strong>I'd love to get your feedback!</strong>
           </p>
         </div>
 
