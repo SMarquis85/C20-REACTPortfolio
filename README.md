@@ -1,5 +1,5 @@
-# C19-TXTEditor
-Challenge 19 - Boot Camp
+# C20 - REACTPortfolio
+Challenge 20 - Boot Camp
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
