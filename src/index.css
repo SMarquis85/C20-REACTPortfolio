@@ -156,6 +156,7 @@ header nav ul li a:hover {
 
 
 /*Intro*/
+
 .intro p {
   line-height: 1.7;
   color: #0E5259;
@@ -165,25 +166,19 @@ header nav ul li a:hover {
 }
 
 .intro-info {
-  flex: 2 70%;
+  flex: 60%;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
 }
 
 .intro-img {
-  flex: 1 12%;
-  margin-right: 20px;
-}
-
-.intro-img img {
-  max-width: 100%;
-  height: auto;
-  margin-left: 5px;
+  flex: 1 0%;
+  margin-right: 5px;
 }
 
 .intro-text {
-  flex: 12;
+  flex: 10;
 }
 
 .intro-text p {
@@ -216,6 +211,8 @@ header nav ul li a:hover {
 
 .contact-form {
   padding-right: 10%;
+  display: flex;
+
 }
 
 .contact-form button:hover {
@@ -246,17 +243,15 @@ header nav ul li a:hover {
 }
 
 .contact-form button {
-  width: 100%;
+  width: 50%;
   border: none;
   background: #F2E3D5;
   color: #024e76;
   text-align: center;
-  padding: 15px 0;
+  padding: 10px;
   font-size: 25px;
   border-radius: 10px;
-
-
-
+  margin-bottom:15px;
 }
 
 .contact-info>* {
