@@ -84,6 +84,9 @@ License used for this project - MIT
 
 > **(JavaScript Full Stack Developers, Lawrence Wilson; Audiobook (2023) 6hrs and 29mins. )**
 
+## Screenshot:
+
+![images/Portfolio.png](images/Portfolio.png)
 
 ## Application Link:
 
