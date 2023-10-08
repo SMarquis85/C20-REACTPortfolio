@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.62f39b3d.css",
+    "main.js": "/static/js/main.26c52370.js",
+    "static/js/651.e896d319.chunk.js": "/static/js/651.e896d319.chunk.js",
+    "static/media/5330558.jpg": "/static/media/5330558.95ad9b8cc014ae19eb36.jpg",
+    "static/media/UpdatedWebsite.png": "/static/media/UpdatedWebsite.314c245526924e4c060b.png",
+    "static/media/Profile_Pic.png": "/static/media/Profile_Pic.e993c8d9b9ca74ec08f7.png",
+    "static/media/WeatherApp2.png": "/static/media/WeatherApp2.d4889d441c4ab9cbed99.png",
+    "static/media/Sophie_resume.pdf": "/static/media/Sophie_resume.eb8f640293911e6469ef.pdf",
+    "static/media/WDScheduler2.png": "/static/media/WDScheduler2.533d284354464917eaa3.png",
+    "static/media/Node1.png": "/static/media/Node1.069206c55ed5314ebed2.png",
+    "static/media/HEROKU5.png": "/static/media/HEROKU5.2f55ffd0e0b3020395de.png",
+    "static/media/TECHWORD.png": "/static/media/TECHWORD.f9b63aadfa01e9499006.png",
+    "index.html": "/index.html",
+    "main.62f39b3d.css.map": "/static/css/main.62f39b3d.css.map",
+    "main.26c52370.js.map": "/static/js/main.26c52370.js.map",
+    "651.e896d319.chunk.js.map": "/static/js/651.e896d319.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62f39b3d.css",
+    "static/js/main.26c52370.js"
+  ]
+}
