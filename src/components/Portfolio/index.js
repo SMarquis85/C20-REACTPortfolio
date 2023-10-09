@@ -97,7 +97,7 @@ function Portfolio() {
             <div className="job-text">
               <h4>C10-SVGLogo</h4>
               <p>
-                This app empowers freelance web developers to create custom logos without hiring a graphic designer. It uses inquirer to prompt users for logo preferences, such as up to three characters of text, text color, and shape (triangle, square, or circle) with a corresponding color. After answering the prompts, the app should generate an SVG file with the user's selections. I also wanted to implement unit testing for the first time, with a test suite consisting of three tests to ensure accurate shapes and colors. This app should showcase the potential of back-end developers and the importance of unit testing, even for small projects. I wanted to add minor error handling for the first prompt, limiting text input to three characters. Future development on this application could start with making the logo centered, adding on more error handling (SVG colors), additional unit testing, and adding more polygons and font styles for users to choose from.
+                This app empowers freelance web developers to create custom logos without hiring a graphic designer. It uses inquirer to prompt users for logo preferences, such as up to three characters of text, text color, and shape (triangle, square, or circle) with a corresponding color. After answering the prompts, the app generates an SVG file with the user's selections. Unit testing was applied, for the first time, with a test suite consisting of three tests to ensure accurate shapes and colors. This app showcases the potential of back-end developers and the importance of unit testing, even for small projects. I wanted to add minor error handling for the first prompt, limiting text input to three characters. Future development on this application could start with making the logo centered, adding on more error handling (SVG colors), additional unit testing, and adding more polygons and font styles for users to choose from.
               </p>
             </div>
           </div>
@@ -119,7 +119,7 @@ function Portfolio() {
             <div className="job-text">
               <h4>C11-PersonalJottings</h4>
               <p>
-                To create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file. The application’s front end has already been created. Starter code was cloned from this repository: https://github.com/coding-boot-camp/miniature-eureka It was our job to build the back end, connect the two and then deploy the entire application to Heroku.
+                To create an application called Note Taker that can be used to write and save notes. This application uses an Express.js back end, saves and retrieves note data from a JSON file. The application’s front end has already been created. Starter code was cloned from this repository: https://github.com/coding-boot-camp/miniature-eureka . It was our job to build the back end, connect the two and then deploy the entire application to Heroku.
               </p>
             </div>
           </div>
@@ -164,7 +164,7 @@ function Portfolio() {
               <h4>C14-MVCBlog</h4>
               <p>
                 Writing about tech can be just as important as making it. Developers spend plenty of time creating new applications and debugging existing codebases, but most developers also spend at least some of their time reading and writing about technical concepts, recent advancements, and new technologies. A simple Google search for any concept covered in this course returns thousands of think pieces and tutorials from developers of all skill levels!
-                Our challenge was to build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. We had to build this site completely from scratch and deploy it to Heroku. The app needed to follow the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
+                Our challenge was to build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. I had to build this site completely from scratch and deploy it to Heroku. The app needed to follow the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
               </p>
             </div>
           </div>
