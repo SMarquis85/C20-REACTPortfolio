@@ -53,7 +53,7 @@ function Portfolio() {
             <div className="job-text">
               <h4>C5-TheWDScheduler</h4>
               <p>
-                This Challenge was to create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery. In was important to use the Day.js library to work with date and time.
+                This Challenge was to create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app runs in the browser and features dynamically updated HTMLs and CSSs powered by jQuery. It was important to use the Day.js library to work with date and time.
               </p>
             </div>
           </div>
