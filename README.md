@@ -78,7 +78,7 @@ License used for this project - MIT
 
   ## Final Work Review
 
-**"Always leave the code a little cleaner than when you found it."**  This action was applied to ALL JAVASCRIPT files. To create this assignment, I used Lawrence Wilson's Audiobook. References we're found on Google, multiple websites including W3Schools, DEV, GitHub, Insomnia and Tutorialspoint. YouTube tutorials were helpful as well as all ZOOM recordings (of previous classes). Looks much cleaner, organised and easier to find what you are looking for. I also received the help of my tutor, Erik Hoversten. Erik and I were able to fix the many issues I have encountered while installing packages.
+**"Always leave the code a little cleaner than when you found it."**  This action was applied to ALL JAVASCRIPT files. To create this assignment, I used Lawrence Wilson's Audiobook. References we're found on Google, multiple websites including W3Schools, DEV, GitHub, Insomnia and Tutorialspoint. YouTube tutorials were helpful as well as all ZOOM recordings (of previous classes). Looks much cleaner, organised and easier to find what you are looking for. I also received the help of my tutor, Erik Hoversten. Erik and I were able to fix the many issues I have encountered while installing packages. Future development of this application would include a "Contact Me" section which I am slowly building. Overall, I would update it as I I learnt new things and wanted to perfect my portfolio online.
 
 > **(CARL-VIRT-FSF-PT-04-2023, Challenge 20 / README.md 2023)**
 
