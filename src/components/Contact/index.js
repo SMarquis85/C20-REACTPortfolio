@@ -65,7 +65,7 @@ function Contact() {
             E: <a href="mailto://sophienathalie.marquis85@gmail.com">sophienathalie.marquis85@gmail.com</a>
           </address>
           <p>
-            <strong>I'd love to get your feedback!</strong>
+          <strong>I'd love to get your feedback!</strong>
           </p>
         </div>
       </div>
