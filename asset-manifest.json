@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/C20-REACTPortfolio/static/css/main.06b5ab63.css",
+    "main.css": "/C20-REACTPortfolio/static/css/main.357b67fb.css",
     "main.js": "/C20-REACTPortfolio/static/js/main.c9476337.js",
     "static/js/651.e896d319.chunk.js": "/C20-REACTPortfolio/static/js/651.e896d319.chunk.js",
     "static/media/5330558.jpg": "/C20-REACTPortfolio/static/media/5330558.95ad9b8cc014ae19eb36.jpg",
@@ -13,12 +13,12 @@
     "static/media/HEROKU5.png": "/C20-REACTPortfolio/static/media/HEROKU5.2f55ffd0e0b3020395de.png",
     "static/media/TECHWORD.png": "/C20-REACTPortfolio/static/media/TECHWORD.f9b63aadfa01e9499006.png",
     "index.html": "/C20-REACTPortfolio/index.html",
-    "main.06b5ab63.css.map": "/C20-REACTPortfolio/static/css/main.06b5ab63.css.map",
+    "main.357b67fb.css.map": "/C20-REACTPortfolio/static/css/main.357b67fb.css.map",
     "main.c9476337.js.map": "/C20-REACTPortfolio/static/js/main.c9476337.js.map",
     "651.e896d319.chunk.js.map": "/C20-REACTPortfolio/static/js/651.e896d319.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06b5ab63.css",
+    "static/css/main.357b67fb.css",
     "static/js/main.c9476337.js"
   ]
 }
