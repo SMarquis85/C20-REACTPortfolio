@@ -196,6 +196,7 @@ header nav ul li a:hover {
   background: #75BFB2;
   min-height: 100vh; /* Ensure the section takes up the full viewport height */
   text-align: center; /* Center-align the content within the section */
+  margin-top: -50px
 }
 
 #reach-out h2 {
