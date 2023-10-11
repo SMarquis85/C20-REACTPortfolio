@@ -196,7 +196,7 @@ header nav ul li a:hover {
   background: #75BFB2;
   min-height: 100vh; /* Ensure the section takes up the full viewport height */
   text-align: center; /* Center-align the content within the section */
-  margin-top: -50px
+  margin-top: -50px; /* Adjust this value to move the section up or down */
 }
 
 #reach-out h2 {
@@ -213,6 +213,23 @@ header nav ul li a:hover {
   align-items: center; /* Center-align elements horizontally within .contact-info */
   text-align: center; /* Center-align text within .contact-info */
   padding: 20px; /* Add padding to create some space around the content */
+}
+
+.contact-info p {
+  margin: 20px 0;
+  line-height: 1.5;
+  font-size: 25px;
+  font-style: normal;
+}
+
+.contact-info p a {
+  color: #0E5259;
+  text-decoration: none;
+}
+
+.contact-info p a:hover {
+  color: #ACF2E5;
+  transition: .5s ease;
 }
 
 .contact-form {
@@ -275,14 +292,6 @@ header nav ul li a:hover {
   font-size: 32px;
 }
 
-.contact-info p,
-.contact-info address {
-  margin: 20px 0;
-  line-height: 1.5;
-  font-size: 25px;
-  font-style: normal;
-}
-
 #contact-list {
   display: flex;
   flex-wrap: wrap;
@@ -301,7 +310,6 @@ header nav ul li a:hover {
 }
 
 /*end "Contact me" styles*/
-
 
 
 /*Start Jobs section*/
