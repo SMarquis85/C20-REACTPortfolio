@@ -169,6 +169,27 @@ function Portfolio() {
             </div>
           </div>
         </div>
+
+        <div className="job">
+          <div className="job-info">
+            <div className="job-img">
+              <a href="https://aqueous-taiga-27039-c166d4a2cb34.herokuapp.com/">
+                {" "}
+                <img
+                  src={IWANTTHIS}
+                  className="my-2"
+                  style={{ width: "100%" }}
+                  alt="IWANTTHIS"
+                />
+              </a>
+            </div>
+            <div className="job-text">
+              <h4>Final Project</h4>
+              <p>
+              With our group, we again had to conceive and execute a design that solves a real-world problem. In creating our first collaborative MERN-stack single-page application, we had to combine a scalable MongoDB back end, a GraphQL API, and an Express.js and Node.js server with a React front end, implementing user authentication with JWT to build a user-focused platform. We continued to build on the agile development methodologies we’ve used throughout this course. These include storing our project code in GitHub, managing our work with a project management tool, and implementing feature and bug fixes using the Git branch workflow and pull requests. For this project, we started from scratch. Doing so will allowed us to revisit our front-end abilities in the context of React and solidify our understanding of working with multiple servers in a MERN application. Our skills have continued to improve since the first two projects, so naturally our approach was different considering the experience we’ve gained with each new application we’ve built. Our group used everything we’ve learned throughout this course to create a MERN-stack single-page application that works with real-world data to solve a real-world challenge, with a focus on data and user demand. This project provides us with the best opportunity to demonstrate our problem-solving skills, which employers will want to observe.</p>
+            </div>
+          </div>
+        </div>
       </section>
     </div>
   );
