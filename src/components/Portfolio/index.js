@@ -6,6 +6,7 @@ import TECHWORD from "../../assets/small/TECHWORD.png";
 import UpdatedWebsite from "../../assets/small/UpdatedWebsite.png";
 import WDScheduler2 from "../../assets/small/WDScheduler2.png";
 import WeatherApp2 from "../../assets/small/WeatherApp2.png";
+import IWANTTHIS from "../../assets/small/IWANTTHIS.png";
 
 function Portfolio() {
   return (
