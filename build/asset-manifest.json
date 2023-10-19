@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/C20-REACTPortfolio/static/css/main.fd564176.css",
-    "main.js": "/C20-REACTPortfolio/static/js/main.5538d4ff.js",
+    "main.js": "/C20-REACTPortfolio/static/js/main.ba459b16.js",
     "static/js/651.e896d319.chunk.js": "/C20-REACTPortfolio/static/js/651.e896d319.chunk.js",
     "static/media/5330558.jpg": "/C20-REACTPortfolio/static/media/5330558.95ad9b8cc014ae19eb36.jpg",
+    "static/media/IWANTTHIS.png": "/C20-REACTPortfolio/static/media/IWANTTHIS.5e128c9eb092b6145163.png",
     "static/media/UpdatedWebsite.png": "/C20-REACTPortfolio/static/media/UpdatedWebsite.314c245526924e4c060b.png",
     "static/media/Profile_Pic.png": "/C20-REACTPortfolio/static/media/Profile_Pic.e993c8d9b9ca74ec08f7.png",
     "static/media/WeatherApp2.png": "/C20-REACTPortfolio/static/media/WeatherApp2.d4889d441c4ab9cbed99.png",
@@ -14,11 +15,11 @@
     "static/media/TECHWORD.png": "/C20-REACTPortfolio/static/media/TECHWORD.f9b63aadfa01e9499006.png",
     "index.html": "/C20-REACTPortfolio/index.html",
     "main.fd564176.css.map": "/C20-REACTPortfolio/static/css/main.fd564176.css.map",
-    "main.5538d4ff.js.map": "/C20-REACTPortfolio/static/js/main.5538d4ff.js.map",
+    "main.ba459b16.js.map": "/C20-REACTPortfolio/static/js/main.ba459b16.js.map",
     "651.e896d319.chunk.js.map": "/C20-REACTPortfolio/static/js/651.e896d319.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd564176.css",
-    "static/js/main.5538d4ff.js"
+    "static/js/main.ba459b16.js"
   ]
 }

@@ -6,7 +6,6 @@ import TECHWORD from "../../assets/small/TECHWORD.png";
 import UpdatedWebsite from "../../assets/small/UpdatedWebsite.png";
 import WDScheduler2 from "../../assets/small/WDScheduler2.png";
 import WeatherApp2 from "../../assets/small/WeatherApp2.png";
-import IWANTTHIS from "../../assets/small/IWANTTHIS.png";
 
 function Portfolio() {
   return (
@@ -167,27 +166,6 @@ function Portfolio() {
                 Writing about tech can be just as important as making it. Developers spend plenty of time creating new applications and debugging existing codebases, but most developers also spend at least some of their time reading and writing about technical concepts, recent advancements, and new technologies. A simple Google search for any concept covered in this course returns thousands of think pieces and tutorials from developers of all skill levels!
                 Our challenge was to build a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well. I had to build this site completely from scratch and deploy it to Heroku. The app needed to follow the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
               </p>
-            </div>
-          </div>
-        </div>
-
-        <div className="job">
-          <div className="job-info">
-            <div className="job-img">
-              <a href="https://aqueous-taiga-27039-c166d4a2cb34.herokuapp.com/">
-                {" "}
-                <img
-                  src={IWANTTHIS}
-                  className="my-2"
-                  style={{ width: "100%" }}
-                  alt="IWANTTHIS"
-                />
-              </a>
-            </div>
-            <div className="job-text">
-              <h4>Final Project</h4>
-              <p>
-              With our group, we again had to conceive and execute a design that solves a real-world problem. In creating our first collaborative MERN-stack single-page application, we had to combine a scalable MongoDB back end, a GraphQL API, and an Express.js and Node.js server with a React front end, implementing user authentication with JWT to build a user-focused platform. We continued to build on the agile development methodologies we’ve used throughout this course. These include storing our project code in GitHub, managing our work with a project management tool, and implementing feature and bug fixes using the Git branch workflow and pull requests. For this project, we started from scratch. Doing so will allowed us to revisit our front-end abilities in the context of React and solidify our understanding of working with multiple servers in a MERN application. Our skills have continued to improve since the first two projects, so naturally our approach was different considering the experience we’ve gained with each new application we’ve built. Our group used everything we’ve learned throughout this course to create a MERN-stack single-page application that works with real-world data to solve a real-world challenge, with a focus on data and user demand. This project provides us with the best opportunity to demonstrate our problem-solving skills, which employers will want to observe.</p>
             </div>
           </div>
         </div>
