@@ -19,11 +19,6 @@ function Footer() {
               <AiOutlineLinkedin />
             </li>
           </a>
-          <a href="https://instagram.com/s.na.thalie_888?igshid=OGQ5ZDc2ODk2ZA==">
-            <li className="logo">
-              <FaInstagram />
-            </li>
-          </a>
         </ul>
       </p>
     </footer>
