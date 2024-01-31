@@ -61,7 +61,7 @@ function Contact() {
           <p>Want to get in contact?</p>
           <address>
           Ottawa ON Canada <br />
-          P: <a href="tel:613.462.4273">613.462.4273</a>
+          P: <a href="tel:613.709.0194">613.709.0194</a>
           <br />
           E: <a href="mailto:sophienathalie.marquis85@gmail.com">sophienathalie.marquis85@gmail.com</a>
           </address>
